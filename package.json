@@ -63,7 +63,7 @@
     "ipaddr.js": "^1.9.0",
     "isomorphic-fetch": "^2.2.1",
     "js-yaml": "^3.13.0",
-    "knex": "^0.12.9",
+    "knex": "^0.16.4",
     "localforage": "^1.7.3",
     "lodash.merge": "^4.6.1",
     "lodash.union": "^4.6.0",
@@ -95,7 +95,7 @@
     "uuid": "^3.3.2",
     "vanilla-framework": "^2.3.0",
     "winston": "^2.4.4",
-    "winston-daily-rotate-file": "^1.7.2",
+    "winston-daily-rotate-file": "^3.0.0",
     "yargs": "^6.6.0"
   },
   "devDependencies": {
