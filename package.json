@@ -96,7 +96,7 @@
     "vanilla-framework": "^2.3.0",
     "winston": "^2.4.4",
     "winston-daily-rotate-file": "^1.7.2",
-    "yargs": "^6.6.0"
+    "yargs": "^7.0.0"
   },
   "devDependencies": {
     "assets-webpack-plugin": "^3.5.0",
