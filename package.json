@@ -75,7 +75,7 @@
     "oauth": "^0.9.15",
     "openid": "^2.0.6",
     "parse-github-url": "^0.3.2",
-    "pg": "^6.4.2",
+    "pg": "^8.4.0",
     "prop-types": "^15.7.2",
     "qs": "^6.6.0",
     "raven": "^2.6.4",
@@ -96,7 +96,7 @@
     "vanilla-framework": "^2.3.0",
     "winston": "^2.4.4",
     "winston-daily-rotate-file": "^1.7.2",
-    "yargs": "^6.6.0"
+    "yargs": "^10.0.0"
   },
   "devDependencies": {
     "assets-webpack-plugin": "^3.5.0",
