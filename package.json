@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/canonical-websites/build.snapcraft.io#readme",
   "dependencies": {
-    "@canonical/global-nav": "^2.0.5",
+    "@canonical/global-nav": "^3.2.5",
     "async-lock": "^1.2.0",
     "babel-polyfill": "^6.26.0",
     "body-parser": "^1.18.3",
@@ -63,7 +63,7 @@
     "ipaddr.js": "^1.9.0",
     "isomorphic-fetch": "^2.2.1",
     "js-yaml": "^3.13.0",
-    "knex": "^0.12.9",
+    "knex": "^0.95.0",
     "localforage": "^1.7.3",
     "lodash.merge": "^4.6.1",
     "lodash.union": "^4.6.0",
