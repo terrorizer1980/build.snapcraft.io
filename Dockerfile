@@ -3,7 +3,7 @@
 # Don't use it while this is not done:
 # https://bugs.launchpad.net/snapstore/+bug/1738241
 #
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20201014
 
 # System dependencies
 RUN apt-get update && apt-get install --yes curl xz-utils
